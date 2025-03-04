@@ -41,8 +41,8 @@ This repository presents several personnal and academic projects that I coded.
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" />
           
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" />
+<br />
 
-#
 ---
 ### 🛡️ Certifications
 - Micorsoft Certified: Azure Fundamentals
