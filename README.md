@@ -42,6 +42,7 @@ This repository presents several personnal and academic projects that I coded.
           
 <img align="left" alt="Java" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" />
 <br />
+<br />
 
 ---
 ### 🛡️ Certifications
