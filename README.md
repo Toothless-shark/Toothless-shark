@@ -36,7 +36,8 @@ This repository presents several personnal and academic projects that I coded.
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
           
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" />
-          
+
+
 ---
 ### 🛡️ Certifications
 - Micorsoft Certified: Azure Fundamentals
