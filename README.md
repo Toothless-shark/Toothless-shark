@@ -5,8 +5,9 @@
 I'm passionate about DevOps and Cybersecurity, with hands-on experience in cloud infrastructure, container orchestration, and automation tools. I love solving complex problems and continuously learning new technologies to build secure and scalable systems.
 This repository contains some of 
 
-https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif
-
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100" />
+</div>
 
 🚀 About Me
 
